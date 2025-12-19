@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rayfield UI Builder AI",
+  "description": "A visual builder for Roblox Rayfield Interface Suite. Design your UI visually and use Gemini to generate the underlying Lua logic for buttons and toggles.",
+  "requestFramePermissions": []
+}
